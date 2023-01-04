@@ -1,0 +1,45 @@
+{
+  "name": "Immortals #2221",
+  "symbol": "IMRTL",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://shdw-drive.genesysgo.net/EcDjyv8xKYGcDN1f8sAsSCnn5a4zhtw9kPMywzuseLhT/2221.png",
+  "attributes": [
+{
+      "trait_type": "Backgrounds",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bat wings"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Yeti"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "none"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Coal hoodie"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "none"
+    },
+    {
+      "trait_type": "Relics",
+      "value": "Blood moon"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
